@@ -1,0 +1,12 @@
+Policy Number: POL20002
+Policyholder Name: Neha Verma
+
+Incident Date: 11-12-2024
+Location: Delhi
+Description: Accident reported without details
+
+Claimant: Neha Verma
+Asset Type: Bike
+Estimated Damage: 30000
+
+Claim Type: vehicle

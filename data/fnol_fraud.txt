@@ -1,0 +1,20 @@
+Policy Number: POL30003
+Policyholder Name: Ravi Kumar
+Effective Dates: 01-01-2024 to 01-01-2025
+
+Incident Date: 09-12-2024
+Incident Time: 22:30
+Location: Bengaluru
+Description: Accident appears staged and inconsistent with damage
+
+Claimant: Ravi Kumar
+Third Parties: Unknown
+Contact Details: 8888888888
+
+Asset Type: Car
+Asset ID: KA05CD5678
+Estimated Damage: 80000
+
+Claim Type: vehicle
+Attachments: report.pdf
+Initial Estimate: 80000

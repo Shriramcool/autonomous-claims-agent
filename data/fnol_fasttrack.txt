@@ -1,0 +1,20 @@
+Policy Number: POL10001
+Policyholder Name: Amit Sharma
+Effective Dates: 01-01-2024 to 01-01-2025
+
+Incident Date: 10-12-2024
+Incident Time: 14:00
+Location: Mumbai
+Description: Minor scratch on bumper
+
+Claimant: Amit Sharma
+Third Parties: None
+Contact Details: 9999999999
+
+Asset Type: Car
+Asset ID: MH12AB1234
+Estimated Damage: 15000
+
+Claim Type: vehicle
+Attachments: photos.jpg
+Initial Estimate: 15000

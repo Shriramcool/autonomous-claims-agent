@@ -1,0 +1,12 @@
+Policy Number: POL12345
+Policyholder Name: Ramesh Kumar
+Effective Dates: 01-01-2024 to 01-01-2025
+
+Incident Date: 12-12-2024
+Incident Time: 18:30
+Location: Pune
+
+Description: Rear-end collision with minor damage
+Claim Type: vehicle
+
+Estimated Damage: 18000
